@@ -7,11 +7,11 @@ What that means is, **_A_** will run the *TTTServer.jar* file, while **_B_** wil
 ## Player A
 **(1)** Just click on your **TTTServer.jar** executable and you will see something like the following:
 
-![alt text](https://raw.githubusercontent.com/AshHash/Tic-Tac-Toe/master/imgs/server_1.png)
+![alt text](https://raw.githubusercontent.com/AshHash/Tic_Tac_Toe-Client_Server-Game/master/imgs/server_1.png)
 
 **(2)** Just click on **connect** button and you will see something like the following:
 
-![alt text](https://raw.githubusercontent.com/AshHash/Tic-Tac-Toe/master/imgs/server_2.png)
+![alt text](https://raw.githubusercontent.com/AshHash/Tic_Tac_Toe-Client_Server-Game/master/imgs/server_2.png)
 
 Now, your friend should know your **IP-address**, if not then give it to her/him and ask them to follow their instructions.
 
@@ -20,11 +20,11 @@ Now, your friend should know your **IP-address**, if not then give it to her/him
 ## Player B
 **(1)** Just click on your **TTTClient.jar** executable and you will see something like the following:
 
-![alt text](https://raw.githubusercontent.com/AshHash/Tic-Tac-Toe/master/imgs/client_1.png)
+![alt text](https://raw.githubusercontent.com/AshHash/Tic_Tac_Toe-Client_Server-Game/master/imgs/client_1.png)
 
 **(2)** Just click on **connect** button and you will see something like the following:
 
-![alt text](https://raw.githubusercontent.com/AshHash/Tic-Tac-Toe/master/imgs/client_2.png)
+![alt text](https://raw.githubusercontent.com/AshHash/Tic_Tac_Toe-Client_Server-Game/master/imgs/client_2.png)
 
 **(3)** Enter your friends **IP-address** and click **OK**.
 
