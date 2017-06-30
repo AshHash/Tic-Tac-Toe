@@ -1,2 +1,7 @@
 # Tic-Tac-Toe
-Java based GUI networked game
+
+This is a simple Java based GUI networked game. In the *executable* directpry, there are two executable-jar files.
+With these two files, you and your friend can play **Tic Tac Toe** from anywhere in the world. 
+The only thing that it requires is *java* to be installed in your system.
+
+Have FUN!!! :)
