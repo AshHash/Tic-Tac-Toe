@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic Tac Toe
 
 This is a simple Java based GUI networked game. In the *executable* directory, there are two executable-jar files.
 With these two files, you and your friend can play **Tic Tac Toe** from anywhere in the world. 
